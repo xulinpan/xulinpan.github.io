@@ -1,2 +1,2 @@
 # xulinpan.github.io
-this is my homepage at github
+I will write the applied statistics based on my recently course.
