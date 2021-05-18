@@ -1,2 +1,5 @@
-# xulinpan.github.io
-I will write the applied statistics based on my recently course.
+# bookdown-tutorial
+Mini tutorial for bookdown 
+
+
+afdafadjl
