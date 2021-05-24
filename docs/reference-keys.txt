@@ -7,3 +7,5 @@ turn-bookdown-tutorial-into-awesome-book
 publish-awesome-book
 moving-forward
 write
+假设检验
+一个总体方差的检验
