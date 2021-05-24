@@ -3,4 +3,9 @@
 Coming soon: 
 
 - Adding chapters
+```{r}
+data <- read.csv("./data/example6_11.csv")
+head(data)
+```
+
 - Citations

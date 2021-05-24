@@ -2,7 +2,9 @@
 title: "应用统计学及R"
 author: "潘蓄林"
 date: "`r Sys.Date()`"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 documentclass: book
 bibliography:
 - book.bib
@@ -18,6 +20,7 @@ site: bookdown::bookdown_site
 
 ### 一个总体方差的检验
 
+假定总体服从正态分布。
 It's possible to create beautiful books for free using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and Yihui Xie's [bookdown](https://bookdown.org/yihui/bookdown/) and hosting them on [Github](http://github.com). This is pretty new and incredibly cool. It is a really powerful way to communicate science using the same reproducible workflow you use for your analyses and collaborations.
 
 This tutorial borrows heavily from a lot of great tutorials and resources you should check out too -- there are links throughout. It also parallels a previous tutorial [Making free websites with RStudio’s R Markdown](https://jules32.github.io/rmarkdown-website-tutorial/).
