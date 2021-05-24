@@ -14,9 +14,9 @@ description: A mini bookdown tutorial book on how to make bookdown books.
 site: bookdown::bookdown_site
 ---
 
-# Welcome {#welcome}
+# 假设检验
 
-hi
+### 一个总体方差的检验
 
 It's possible to create beautiful books for free using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and Yihui Xie's [bookdown](https://bookdown.org/yihui/bookdown/) and hosting them on [Github](http://github.com). This is pretty new and incredibly cool. It is a really powerful way to communicate science using the same reproducible workflow you use for your analyses and collaborations.
 
